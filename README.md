@@ -11,7 +11,12 @@ Python script that allow you to automate Bing queries
                     |___/
 
 -h, --help : Help
+
 -q, --query : Query
+
 -p, --page : Page number
+
 -s, --silent : Silent mode
+
 -u, --url : Print only urls
+
